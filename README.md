@@ -1,4 +1,6 @@
 # PermissionX
+This project is my practice project based on Lin Guo's Design of PermissionX.
+
 To get a Git project into your build:
 
 Step 1. Add the JitPack repository to your root build.gradle file
